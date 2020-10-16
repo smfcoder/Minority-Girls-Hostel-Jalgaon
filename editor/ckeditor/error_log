@@ -1,0 +1,4 @@
+[21-Jan-2020 15:01:15 Etc/GMT] PHP Warning:  move_uploaded_file(uploads/hostel.jpg): failed to open stream: No such file or directory in /home/padmaiyp/public_html/hostel/editor/ckeditor/ck_upload.php on line 75
+[21-Jan-2020 15:01:15 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxSShKd' to 'uploads/hostel.jpg' in /home/padmaiyp/public_html/hostel/editor/ckeditor/ck_upload.php on line 75
+[21-Jan-2020 15:01:34 Etc/GMT] PHP Warning:  move_uploaded_file(uploads/ITI-scholarship.jpg): failed to open stream: No such file or directory in /home/padmaiyp/public_html/hostel/editor/ckeditor/ck_upload.php on line 75
+[21-Jan-2020 15:01:34 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkrKYnM' to 'uploads/ITI-scholarship.jpg' in /home/padmaiyp/public_html/hostel/editor/ckeditor/ck_upload.php on line 75
