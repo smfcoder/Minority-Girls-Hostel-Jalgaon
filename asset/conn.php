@@ -1,3 +1,3 @@
 <?php
-    $sql = mysqli_connect("localhost","padmaiyp_hostel","hostel","padmaiyp_hostel") or die(mysql_error());
+    $sql = mysqli_connect("localhost","root","","padmaiyp_hostel") or die(mysql_error());
 ?>
